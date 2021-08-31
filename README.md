@@ -1,6 +1,7 @@
 # Riversi-GUI
 
 Αναφορά:
+
 Κλάση ReversiAi:
 Η κλάση ReversiAi περιέχει μόνο τη συνάρτηση minimax().
 
