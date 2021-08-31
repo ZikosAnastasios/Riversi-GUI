@@ -1,6 +1,6 @@
 # Riversi-GUI
 
-Αναφορά:
+Αναφορά: 
 
 Κλάση ReversiAi:
 
